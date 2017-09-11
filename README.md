@@ -10,7 +10,7 @@ Facts
 Description
 -----------
 You don't need to use search to find product you just edited and see how it looks. This extension adds button to product page that allows to open product on frontend and see changes you made instantly
-
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 Requirements
 ------------
 - PHP >= 5.6.0
